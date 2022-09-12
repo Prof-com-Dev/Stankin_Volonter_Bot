@@ -133,4 +133,5 @@ dmypy.json
 .idea/
 /db/users.db
 /config.py
+/config.json
 
